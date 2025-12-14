@@ -1,2 +1,2 @@
 # Just-Some-Turrets
-A mindustry mod what adds some turrets
+A mindustry mod about turrets
